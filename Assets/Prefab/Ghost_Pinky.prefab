@@ -55,6 +55,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost_Pinky
       objectReference: {fileID: 0}
+    - target: {fileID: 3343400963531967067, guid: fd043e0b50fd74e9a8374dbc00227684, type: 3}
+      propertyPath: initialBehavior
+      value: 
+      objectReference: {fileID: 4978537745325991626, guid: 3e465d8c772674ea186d501f0520da2d, type: 3}
     - target: {fileID: 3970051167666497264, guid: fd043e0b50fd74e9a8374dbc00227684, type: 3}
       propertyPath: m_Sprite
       value: 
